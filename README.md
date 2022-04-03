@@ -5,7 +5,7 @@ A brute force algorithm to try and encode a word into a sudoku.
 When a user enters a sentence, eg "Hello", the sudoku encoder will try and convert this into a decoderable sudoku. Eg:
 H = 123, E = 456, L = 789, O = 132.
 
-**Thus:**
+**Thus:**  
 1 2 3 4 5 6 7 8 9  
 7 8 9 1 3 2 x x x  
 x x x x x x x x x  
